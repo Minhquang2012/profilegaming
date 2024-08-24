@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    height:50px;
+    width:50px;
+    text-decoration: none;
+    border: 2px double royalblue;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+    color: chocolate;
+}
+h1 {
+    color: navy;
+    background-color: olive;
+}
+li {
+    font-size: 20px;
+    color :dodgerblue;
+
+}
+.social:hover {
+    width: 100px;
+    height:100px;
+    box-shadow: 5px 1px 5px 1px red;
+}
+body {
+    font-family: fantasy;
+}
+iframe {
+    height : 500px;
+    width : 1000px;
+}
+.skibidi {
+    text-align:center;
+    width:200px;
+}
+.skibidi a {
+ text-decoration:none;
+}
+.skibiii {
+    border: 1px black solid;
+    border-radius: 1px;
+    background-image: linear-gradient(to right bottom red,white);
+}
+main a {
+    text-decoration:none;
+
+}
